@@ -2,8 +2,11 @@
 
 ## Índice
 
-- [Descrição](#descrição)
+- [Descrição do Projeto](#descrição-do-projeto)
 - [Como Usar](#como-usar)
+- [Funcionamento do Modelo](#funcionamento-do-modelo)
+- [Como Usar](#como-usar)
+- [Possíveis Melhorias](#possíveis-melhorias-na-implementação-do-problema-labirinto)
 
 ## Descrição do Projeto
 
