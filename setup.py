@@ -9,6 +9,8 @@ setup(
     url='https://github.com/diogocorreia01/aprendizagem_reforco.git',
     packages=find_packages(),
     install_requires=[
+        'colorama==0.4.6',
+        'setuptools==75.6.0'
     ],
     python_requires='>=3.12',
 )
